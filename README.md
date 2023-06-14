@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto "Jogo da Adivinhação" é um aplicativo que irá gerar um número aleatório entre 0 e 10, e o usuário deve acertar qual é esse número.
 
-- [Visite o projeto online](https://arturnery.github.io/nlw-11-setup-explorer/)
+- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage-05-projeto-jogo-da-adivinhacao/)
 
 ## :memo: Licença
 
